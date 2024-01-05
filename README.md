@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Joseph George. A software engineer focused on building APIs, scalable websites, testing and caching.
+
+
 <!--
 **artisticwrist/artisticwrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
