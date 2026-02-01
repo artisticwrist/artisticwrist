@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joseph
 
-I’m a **Backend-focused Full-Stack Developer** with **4+ years of experience** building scalable web applications and APIs - primarily with **PHP (Laravel)**.
+I’m a **Backend-focused Full-Stack Developer** with **4+ years of experience** building scalable web applications and APIs - primarily with **PHP (Laravel)** and **Javascript**.
 
 I enjoy designing clean backend architectures, solving real-world problems, and turning business ideas into reliable systems.
 
