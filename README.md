@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joseph
 
-I’m a **Backend-focused Full-Stack Developer** with **4+ years of experience** building scalable web applications and APIs - primarily with **PHP (Laravel)** and **Javascript**.
+I’m a **Backend-focused Full-Stack Developer** with **5+ years of experience** building scalable web applications and APIs - primarily with **PHP (Laravel)** and **Javascript**.
 
 I enjoy designing clean backend architectures, solving real-world problems, and turning business ideas into reliable systems.
 
@@ -21,7 +21,7 @@ I enjoy designing clean backend architectures, solving real-world problems, and 
 
 **Backend:** PHP (Laravel), MySQL, REST APIs, Sanctum, Breeze
 **Frontend:** JavaScript, jQuery, React (Vite), Bootstrap
-**Payments:** Paystack, Stripe
+**Payments:** Paystack, Stripe, paddle cashier
 **Tools:** Git, GitHub, MVC, Clean Code, SOLID, API-first development
 
 ---
@@ -38,7 +38,7 @@ I enjoy designing clean backend architectures, solving real-world problems, and 
 
 ## 🎯 Interests
 
-Backend architecture · APIs · SaaS · Fintech · Scalable systems
+Backend architecture · APIs · SaaS · Fintech · Scalable systems · AI agent integration
 
 ---
 
